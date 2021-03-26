@@ -1,7 +1,8 @@
 ### Hi there 👋
 ![Silvana-Ruiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silvana-Ruiz)
-
-
+🦄
+![Silvana-Ruiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silvana-Ruiz&show_icons=true) 
+![Silvana-Ruiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silvana-Ruiz&show_icons=true&theme=radical)
 <!--
 **Silvana-Ruiz/Silvana-Ruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
