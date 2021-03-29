@@ -1,4 +1,3 @@
-### Hi there 
 <p align="center">
   <img src="https://i.postimg.cc/gctGzG04/Typewriter-with-bigger-name.png)](https://postimg.cc/Cd83JTkf" width="400" title="Typewriter">
 </p>
