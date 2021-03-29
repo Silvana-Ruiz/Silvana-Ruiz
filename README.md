@@ -1,10 +1,14 @@
+![header](https://capsule-render.vercel.app/api?type=rect&color=fed4d2&height=5)
 ![header](https://capsule-render.vercel.app/api?type=rect&color=f5f5dc&height=20)
+![header](https://capsule-render.vercel.app/api?type=rect&color=d3f6e5&height=5)
 <p align="center">
   <img src="https://i.postimg.cc/gctGzG04/Typewriter-with-bigger-name.png)](https://postimg.cc/Cd83JTkf" width="400" title="Typewriter">
 </p>
 
 
 Hello! My name is Silvana and I am studying a B.S. in Computer Science and Technology. I am currently working with Pyhton, C++, R, and Matlab. I am interested in learning more about bioinformatics as well as artificial intelligence and data science. I would love to learn from others and collaborate in proyects that help solve problems that people face on a daily basis. My pronouns are she/her. I speak spanish (native), english (advanced), and german (beginner). My strenghs include writing, public speaking, creatitvity, team work, responsibility, adaptabiliy, and honesty. Moreover, during my free time I like to listen to music, write, draw, pratice calligraphy, and watch k-dramas (my favorite is Crash Landing on You).
+
+**My Stats**
 
 ![Silvana-Ruiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silvana-Ruiz&show_icons=true&theme=buefy)
 
@@ -16,8 +20,9 @@ Hello! My name is Silvana and I am studying a B.S. in Computer Science and Techn
 📧E-mail: silvanadorita@hotmail.com
 
 LinkedIn: www.linkedin.com/in/silvana-ruiz-27b09320a
-
+![header](https://capsule-render.vercel.app/api?type=rect&color=fed4d2&height=5)
 ![header](https://capsule-render.vercel.app/api?type=rect&color=f5f5dc&height=20)
+![header](https://capsule-render.vercel.app/api?type=rect&color=d3f6e5&height=5)
 
 
 <!--
