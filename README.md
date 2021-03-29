@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Silvana-Ruiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silvana-Ruiz&show_icons=true&theme=gradient)
+![Silvana-Ruiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silvana-Ruiz&show_icons=true&theme=cobalt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silvana-Ruiz&layout=compact)](https://github.com/Silvana-Ruiz/github-readme-stats)
 
