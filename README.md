@@ -1,6 +1,6 @@
 ### Hi there 
-[![Smaller-Typewriter.png](https://i.postimg.cc/sDCwZh12/Smaller-Typewriter.png)](https://postimg.cc/xqgKwqvr)
-![Silvana-Ruiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silvana-Ruiz&show_icons=true&theme=cobalt)
+[![Even-Smaller-Typewriter.png](https://i.postimg.cc/Bb9cDrSz/Even-Smaller-Typewriter.png)](https://postimg.cc/vghVwS67)
+![Silvana-Ruiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silvana-Ruiz&show_icons=true&theme=buefy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silvana-Ruiz&hide=Ruby&layout=compact)](https://github.com/Silvana-Ruiz/github-readme-stats)
 
