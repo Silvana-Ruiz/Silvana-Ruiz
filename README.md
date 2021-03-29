@@ -1,5 +1,5 @@
 ### Hi there 
-[![Typewriter-Name.png](https://i.postimg.cc/wjdZHrD0/Typewriter-Name.png)](https://postimg.cc/BXMMBMYK)
+[![Smaller-Typewriter.png](https://i.postimg.cc/sDCwZh12/Smaller-Typewriter.png)](https://postimg.cc/xqgKwqvr)
 ![Silvana-Ruiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silvana-Ruiz&show_icons=true&theme=cobalt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silvana-Ruiz&hide=Ruby&layout=compact)](https://github.com/Silvana-Ruiz/github-readme-stats)
