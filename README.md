@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=fed4d2&height=5)
 ![header](https://capsule-render.vercel.app/api?type=rect&color=f5f5dc&height=20)
-![header](https://capsule-render.vercel.app/api?type=rect&color=d3f6e5&height=5)
 <p align="center">
   <img src="https://i.postimg.cc/gctGzG04/Typewriter-with-bigger-name.png)](https://postimg.cc/Cd83JTkf" width="400" title="Typewriter">
 </p>
@@ -22,7 +21,6 @@ Hello! My name is Silvana and I am studying a B.S. in Computer Science and Techn
 LinkedIn: www.linkedin.com/in/silvana-ruiz-27b09320a
 ![header](https://capsule-render.vercel.app/api?type=rect&color=fed4d2&height=5)
 ![header](https://capsule-render.vercel.app/api?type=rect&color=f5f5dc&height=20)
-![header](https://capsule-render.vercel.app/api?type=rect&color=d3f6e5&height=5)
 
 
 <!--
