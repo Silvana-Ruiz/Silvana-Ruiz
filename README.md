@@ -1,11 +1,8 @@
 ### Hi there 👋
-![Silvana-Ruiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silvana-Ruiz)
-🦄
-![Silvana-Ruiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silvana-Ruiz&show_icons=true) 
-![Silvana-Ruiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silvana-Ruiz&show_icons=true&theme=radical)
+![Silvana-Ruiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Silvana-Ruiz&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silvana-Ruiz=compact)](https://github.com/Silvana-Ruiz/github-readme-stats)
 <!--
 **Silvana-Ruiz/Silvana-Ruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 
 Here are some ideas to get you started:
