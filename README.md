@@ -16,7 +16,7 @@ Hello! My name is Silvana and I am studying a B.S. in Computer Science and Techn
 
 LinkedIn: www.linkedin.com/in/silvana-ruiz-27b09320a
 
-
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient)
 
 
 <!--
