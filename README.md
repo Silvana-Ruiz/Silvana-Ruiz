@@ -5,7 +5,7 @@
 </p>
 
 
-Hello! My name is Silvana and I am studying a B.S. in Computer Science and Technology. I am currently working with Python, C++, R, HTML and CSS, and Racket. I am interested in learning more about software development as well as artificial intelligence and data science. I would love to learn from others and collaborate in proyects that help solve problems that people face on a daily basis. My pronouns are she/her. I speak Spanish (native), English (advanced), and German (beginner). My strengths include writing, public speaking, creatitvity, teamwork, resilience, leadership, responsibility, adaptabiliy, and honesty. Moreover, during my free time I like to listen to music, write, draw, and pratice calligraphy. If you are wondering, I do own a typewriter.
+Hello! My name is Silvana and I am studying a B.S. in Computer Science and Technology. I am currently working with Python, React, C++, R, HTML and CSS, and Racket. I am interested in learning more about software development as well as artificial intelligence and data science. I would love to learn from others and collaborate in proyects that help solve problems that people face on a daily basis. My pronouns are she/her. I speak Spanish (native), English (advanced), and German (beginner). My strengths include writing, public speaking, creatitvity, teamwork, resilience, leadership, responsibility, adaptabiliy, and honesty. Moreover, during my free time I like to listen to music, write, draw, and pratice calligraphy. If you are wondering, I do own a typewriter.
 
 **My Stats**
 
